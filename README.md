@@ -4,16 +4,17 @@
 Morando em São Paulo, sou apaixonado por engenharia de software e arquitetura de sistemas.
 
 - 👨🏼‍💻 Atualmente, trabalho como `Analista de Desenvolvimento Back-End`, focando em desenvolvimento Java, especialmente com Spring Boot; <br>
-- 🎯 Tenho grande interesse em arquitetura de software e otimização; <br>
+- 🎯 Tenho grande interesse em Desenvolvimento de software e otimização; <br>
 - 📚 Minha jornada na tecnologia começou em 2019 com um curso superior em Segurança da Informação; <br>
-- ⚡ Curiosidade: jogo basquete a 10 anos; <br>
+- ⚡ Curiosidade: Sou Design Grafico nas horas vagas; <br>
 - 🎺 Meus hobbies incluem leitura, exercícios (musculação, caminhada e corrida) e assistir filmes e séries com a família.
 
 ### Contato:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/caiovinicius2246)
 <a href="mailto:caio.dev.conceicao@gmail.com?subject=Olá Caio Vinicius" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="[https://www.behance.net/seu_perfil](https://www.behance.net/caiovinicius81)" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+</a>
+<a href="https://www.behance.net/caiovinicius81" target="_blank">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
 </a>
 
