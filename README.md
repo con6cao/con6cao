@@ -31,11 +31,6 @@ Morando em São Paulo, sou apaixonado por engenharia de software e arquitetura d
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white) 
 
-### Soft Skills:
-Desenvolvi disciplina, persistência, responsabilidade na entrega de resultados, foco em inovação e boas relações interpessoais. Busco excelência em trabalho em equipe e melhoria contínua.
-
-![Snake animation](https://github.com/con6cao/con6cao/blob/output/github-contribution-grid-snake.svg)<br><br>
-
 ## Contribuições
 
 <div>
