@@ -1,7 +1,7 @@
 
 ### Olá, sou Caio Vinicius dos Santos! 😁 
 
-Morando em São Paulo. Entusiasta de Engenharia de Software com uma paixão ardente por transformar ideias em soluções robustas e escaláveis.
+Nascido em santos morando em São Paulo. Entusiasta de Engenharia de Software com uma paixão ardente por transformar ideias em soluções robustas e escaláveis.
 
 - 👨🏼‍💻 Atualmente, trabalho como `Analista de Desenvolvimento Back-End`, focando em desenvolvimento Java, especialmente com Spring Boot; <br>
 - 🎯 Tenho grande interesse em Desenvolvimento de software e otimização; <br>
