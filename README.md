@@ -6,7 +6,7 @@ Nascido em santos morando em São Paulo. Entusiasta de Engenharia de Software co
 - 👨🏼‍💻 Atualmente, trabalho como `Analista de Desenvolvimento Back-End` focando em desenvolvimento Java, especialmente com Spring Boot; <br>
 - 🎯 Tenho grande interesse em Desenvolvimento de software e otimização; <br>
 - 📚 Minha jornada na tecnologia começou em 2019 com um curso superior em Segurança da Informação; <br>
-- ⚡ Curiosidade: Tocedor do Santos nas horas vagas; <br>
+- ⚡ Curiosidade: Sou torcedor do Santos nas horas vagas; <br>
 
 ### Contato:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/caiovinicius2246)
